@@ -26,3 +26,8 @@ a:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
 .meta{color:var(--muted);font-size:.9rem;margin:.25rem 0 .75rem}
 .contact{list-style:none;padding:0;font-size:1.15rem;line-height:2}
 footer{max-width:44rem;margin:0 auto;padding:1.5rem 1.25rem;border-top:1px solid var(--line);color:var(--muted);font-size:.85rem}
+nav{flex-wrap:wrap;gap:.4rem 1.1rem;font-size:.95rem}
+.proj h3,.sec h3{font-size:.95rem;margin:1rem 0 .15rem;color:var(--muted)}
+.proj p,.sec p{margin:.15rem 0}
+.sec{padding:1.25rem 0;border-top:1px solid var(--line)}
+.sec h2{margin-top:0}
